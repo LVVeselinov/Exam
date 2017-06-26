@@ -51,8 +51,7 @@ namespace Regeh
                 Console.Write(copyInput[count % copyInput.Length]);
 
             }
-            Console.WriteLine();
-           
+            
 
         }
     }
